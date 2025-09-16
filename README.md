@@ -29,4 +29,5 @@ JWT – Secure authentication & authorization
 
 ## DEPLOY LINK
 
-[Live Demo Link]()
+
+[Live Demo Link](https://mern-stack-chat-app-ddrd.onrender.com/)
