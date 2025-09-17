@@ -6,6 +6,22 @@ A modern **real-time chat application** built with the **MERN stack**, featuring
 
 ---
 
+## 🖼️ File & Image Sharing – Let users send images, videos, and documents in chat.
+
+📱 Typing Indicators – Show “User is typing…” in real time using Socket.io.
+
+🕒 Message Read Receipts – Double-check or tick marks when a message is seen.
+
+📂 Chat Rooms / Group Chats – Support multiple rooms or private groups.
+
+🔒 Refresh Tokens & Secure Logout – Improve authentication flow with refresh tokens.
+
+🔔 Push Notifications – Browser push or in-app toast notifications for new messages.
+
+🌙 Multiple theme Mode  – Leverage Tailwind/DaisyUI’s theming for mode.
+
+---
+
 ## 🌟 Tech Stack
 
 - **MongoDB** – Database  
@@ -113,3 +129,4 @@ Open: [http://localhost:3000](http://localhost:3000)
 ## 📜 License
 
 MIT  
+
